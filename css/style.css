@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "retro";
+    src: url(../RETROTECH.ttf);
+}
+body{
+    align-content: center;
+}
+.principal{
+    background-image: url(../img/fondoretro.jpg);
+    color: white;
+    font-family: "retro";
+}
+h1{
+    text-align: center;
+}
+table{
+    width:800px ;
+    height: 500px;
+    border:5px groove RGB(237, 175, 5);
+    border-radius: 10px;
+    background-color: rgb(62, 59, 59)   ;
+    
+}
+td{
+    width: 40px; ;
+    height: 40px;
+    border:5px groove gray;
+    border-radius: 5px;
+    background-color: rgb(62, 59, 59)
+    ;
+}
